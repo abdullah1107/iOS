@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class StoryboardSliderViewController: UIViewController {
     
     
     @IBOutlet weak var sliderLabel: UILabel!
