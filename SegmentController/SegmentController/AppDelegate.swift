@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Slider
+//  SegmentController
 //
-//  Created by Muhammad Abdullah Al Mamun on 24/3/19.
+//  Created by Muhammad Abdullah Al Mamun on 25/3/19.
 //  Copyright © 2019 Muhammad Abdullah Al Mamun. All rights reserved.
 //
 
